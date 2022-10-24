@@ -1,16 +1,7 @@
 {
-  "Name": "Glow in the dark",
-  "Description": null,
-  "Author": "ray1997",
+  "Name": "A Glow in the Dark",
+  "Description": "Pack Created by Phantom, a slight Neon as your only bit of light left in the darkness. Join the discord at https://discord.gg/CzbG67FSJ9",
   "LastUpdate": "2022-10-25 02:23:14",
-  "URL": "https://github.com/ray1997/Glow-in-the-dark",
-  "Repository": {
-    "Name": "Glow-in-the-dark",
-    "ID": 556899687,
-    "Owner": "ray1997",
-    "DefaultBranch": "master",
-    "CloneUrl": "https://github.com/ray1997/Glow-in-the-dark.git"
-  },
   "ContentInfo": {
     "HasPerks": true,
     "HasPortraits": true,
